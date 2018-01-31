@@ -3,4 +3,6 @@
 Want to create a blur background for your images with Nodejs?
 You've come to the right place!
 
-Just run download the image to the directory and run `node index.js`
+1. install the package
+2. install the dependencies `npm install` 
+3. download the image to the directory and run `node index.js`
